@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Rajeev Purohit",
-  "engines": "8.11.1",
+  "engine": "8.11.1",
   "license": "MIT",
   "scripts": {
     "serve": "live-server public/",
